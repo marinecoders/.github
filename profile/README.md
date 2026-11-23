@@ -1,5 +1,3 @@
-![Marine Coders Logo](https://marines.dev/assets/marinecoders.png)
-
 ## Who are Marine Coders
 Marine Coders is an official organization comprised of Active Duty/Reserve Marines, Marine Veterans, and U.S. Citizens who want to help Marines through code.
 
